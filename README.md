@@ -62,3 +62,11 @@ The main objective of this project is to develop basic Python programming skills
 
 The Student Data Organizer is a beginner-friendly Python project that provides a simple way to manage student records. It helps develop practical knowledge of data structures, loops, conditional statements, and user interaction. This project also builds a foundation for developing more advanced student management systems in the future.
 
+## 📸 Output Screenshots
+<img width="1346" height="886" alt="image" src="https://github.com/user-attachments/assets/7afc7367-64e1-4a33-a680-7412a4b47b30" />
+
+<img width="1342" height="831" alt="image" src="https://github.com/user-attachments/assets/bb60018a-9943-48dc-bad1-b0360a707e31" />
+
+
+
+
