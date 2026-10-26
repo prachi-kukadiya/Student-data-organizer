@@ -10,6 +10,9 @@ The project uses Python lists, dictionaries, loops, conditional statements, and 
 
 🔗**Hosting URL:**🔗 [Run Student Data Organizer on OnlineGDB](https://onlinegdb.com/LelN7f9wy)
 
+## 🎥 Explanation Video
+🔗🔗  https://drive.google.com/drive/folders/10UH8S5_kGpssJVRooP4QUl9hpctr4OuC?usp=drive_link
+
 ## ✨ Features
 
 1. **Add Student:** Add a new student by entering their ID, name, age, grade, date of birth, and subjects.
