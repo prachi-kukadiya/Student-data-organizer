@@ -85,7 +85,7 @@ while True:
         break
 
     else:
-        print("Invalid choice ! Please enter a number from 1 to 8.")
+        print("Invalid choice ! Please enter a number from 1 to 6.")
         
 
 
